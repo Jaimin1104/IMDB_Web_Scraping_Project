@@ -1,0 +1,2 @@
+[console_scripts]
+shub = shub.tool:cli

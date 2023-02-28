@@ -1,0 +1,13 @@
+setup.py
+IMDB_Movies/__init__.py
+IMDB_Movies/items.py
+IMDB_Movies/middlewares.py
+IMDB_Movies/pipelines.py
+IMDB_Movies/settings.py
+IMDB_Movies/spiders/MovieSpider.py
+IMDB_Movies/spiders/__init__.py
+project.egg-info/PKG-INFO
+project.egg-info/SOURCES.txt
+project.egg-info/dependency_links.txt
+project.egg-info/entry_points.txt
+project.egg-info/top_level.txt
